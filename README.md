@@ -1,1 +1,3 @@
 # Music-Script
+# You can enter as many songs as command line parameters
+# To execute, type in: bash music.sh "song_name" "song_name_2" ...
